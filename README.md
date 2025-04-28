@@ -17,3 +17,6 @@ Constraints:
 Assumptions:
 •	The system should handle a high number of concurrent users and allow pharmacy updates in real-time.
 •	The system must comply with local regulations regarding privacy and health-related data security.
+
+
+Run the betterapp.py from the above given files.
